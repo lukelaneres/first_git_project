@@ -1,1 +1,6 @@
 THis is my first file for my git repository.
+
+I am adding this quote, as a means to edit this file:
+
+“Be yourself; everyone else is already taken.”
+― Oscar Wilde

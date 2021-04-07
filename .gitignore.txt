@@ -1,0 +1,5 @@
+It is considered convention, ie. good practice, to have a ".gitignore" file in a git repository.
+
+For the purposes of this uni assignment, this is my very first .gitignore file.
+
+It is rather empty compared to future attempts, I hope.
